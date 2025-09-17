@@ -41,11 +41,11 @@ Make this dashboard your own by:
 - Replacing the dataset with your sales data
 - Updating or creating new measures and visuals
 - Adding filters, drill-through pages, or bookmarks
-- Customizing visuals to match your branding
+- Customising visuals to match your branding
 
 You’re encouraged to fork the repo, make changes, and contribute back if you’d like.
 
-## 📬 Contact
+## Contact
 
 For questions, suggestions, or collaboration:
 
