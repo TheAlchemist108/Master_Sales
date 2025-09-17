@@ -2,7 +2,7 @@
 
 Welcome to the **Master Sales** Power BI project! This report provides a powerful and interactive dashboard to analyze sales performance across various dimensions. It's designed to help sales teams, managers, and decision-makers gain actionable insights from their data.
 
-## 📊 Project Overview
+## Project Overview
 
 The **Master Sales** dashboard covers key aspects of sales analytics, including:
 
@@ -14,7 +14,7 @@ The **Master Sales** dashboard covers key aspects of sales analytics, including:
 
 This project is ideal for monitoring overall sales health, identifying opportunities, and improving strategy.
 
-## 📁 Repository Contents
+## Repository Contents
 
 - `MasterSales.pbix` — Power BI report file
 - `README.md` — Project documentation
