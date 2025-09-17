@@ -20,7 +20,7 @@ This project is ideal for monitoring overall sales health, identifying opportuni
 - `README.md` — Project documentation
 - *(Optional)* `data/` — Folder with sample datasets or templates
 
-## 🚀 Getting Started
+## Getting Started
 
 To use or modify the dashboard:
 
@@ -29,12 +29,12 @@ To use or modify the dashboard:
 3. Review the visuals and data model.
 4. *(Optional)* Connect your own sales data source.
 
-## 🛠️ Requirements
+## Requirements
 
 - **Microsoft Power BI Desktop**
 - *(Optional)* Your sales dataset (CSV, Excel, or direct DB connection)
 
-## ✏️ Modify or Extend
+## Modify or Extend
 
 Make this dashboard your own by:
 
