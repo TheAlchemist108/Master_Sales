@@ -1,4 +1,4 @@
-# 💼 Master Sales – Power BI Project
+# Master Sales – Power BI Project
 
 Welcome to the **Master Sales** Power BI project! This report provides a powerful and interactive dashboard to analyze sales performance across various dimensions. It's designed to help sales teams, managers, and decision-makers gain actionable insights from their data.
 
