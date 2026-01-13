@@ -18,7 +18,7 @@ This project is ideal for monitoring overall sales health, identifying opportuni
 
 - `MasterSales.pbix` — Power BI report file
 - `README.md` — Project documentation
-- *(Optional)* `data/` — Folder with sample datasets or templates
+- *(Optional)* `data/` -Folder with sample datasets or templates
 
 ## Getting Started
 
