@@ -43,7 +43,7 @@ Make this dashboard your own by:
 - Adding filters, drill-through pages, or bookmarks
 - Customising visuals to match your branding
 
-You are encouraged to fork the repo, make changes, and contribute back if you’d like.
+You are encouraged to fork the repo, make changes, and contribute back if you’d like
 
 ## Contact
 
